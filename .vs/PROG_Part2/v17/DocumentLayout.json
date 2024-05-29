@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleesha\\source\\repos\\PROG_Part2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD70101-7447-4BBC-97EA-255C552FC52C}|PROG_Part2\\PROG_Part2.csproj|C:\\Users\\aleesha\\source\\repos\\PROG_Part2\\prog_part2\\recipemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD70101-7447-4BBC-97EA-255C552FC52C}|PROG_Part2\\PROG_Part2.csproj|solutionrelative:prog_part2\\recipemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD70101-7447-4BBC-97EA-255C552FC52C}|PROG_Part2\\PROG_Part2.csproj|c:\\users\\aleesha\\source\\repos\\prog_part2\\prog_part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD70101-7447-4BBC-97EA-255C552FC52C}|PROG_Part2\\PROG_Part2.csproj|solutionrelative:prog_part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2055B1D8-C638-4382-A14B-445DFBF052CC}|RecipeTesting\\RecipeTesting.csproj|C:\\Users\\aleesha\\source\\repos\\PROG_Part2\\recipetesting\\recipetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2055B1D8-C638-4382-A14B-445DFBF052CC}|RecipeTesting\\RecipeTesting.csproj|solutionrelative:recipetesting\\recipetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD70101-7447-4BBC-97EA-255C552FC52C}|PROG_Part2\\PROG_Part2.csproj|C:\\Users\\aleesha\\source\\repos\\PROG_Part2\\prog_part2\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD70101-7447-4BBC-97EA-255C552FC52C}|PROG_Part2\\PROG_Part2.csproj|solutionrelative:prog_part2\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD70101-7447-4BBC-97EA-255C552FC52C}|PROG_Part2\\PROG_Part2.csproj|C:\\Users\\aleesha\\source\\repos\\PROG_Part2\\prog_part2\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD70101-7447-4BBC-97EA-255C552FC52C}|PROG_Part2\\PROG_Part2.csproj|solutionrelative:prog_part2\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecipeTest.cs",
+              "DocumentMoniker": "C:\\Users\\aleesha\\source\\repos\\PROG_Part2\\RecipeTesting\\RecipeTest.cs",
+              "RelativeDocumentMoniker": "RecipeTesting\\RecipeTest.cs",
+              "ToolTip": "C:\\Users\\aleesha\\source\\repos\\PROG_Part2\\RecipeTesting\\RecipeTest.cs",
+              "RelativeToolTip": "RecipeTesting\\RecipeTest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:23:37.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecipeManager.cs",
+              "DocumentMoniker": "C:\\Users\\aleesha\\source\\repos\\PROG_Part2\\PROG_Part2\\RecipeManager.cs",
+              "RelativeDocumentMoniker": "PROG_Part2\\RecipeManager.cs",
+              "ToolTip": "C:\\Users\\aleesha\\source\\repos\\PROG_Part2\\PROG_Part2\\RecipeManager.cs",
+              "RelativeToolTip": "PROG_Part2\\RecipeManager.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAAAKQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:10:43.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "C:\\Users\\aleesha\\source\\repos\\PROG_Part2\\PROG_Part2\\Ingredient.cs",
+              "RelativeDocumentMoniker": "PROG_Part2\\Ingredient.cs",
+              "ToolTip": "C:\\Users\\aleesha\\source\\repos\\PROG_Part2\\PROG_Part2\\Ingredient.cs",
+              "RelativeToolTip": "PROG_Part2\\Ingredient.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:05:54.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\aleesha\\source\\repos\\PROG_Part2\\PROG_Part2\\Recipe.cs",
+              "RelativeDocumentMoniker": "PROG_Part2\\Recipe.cs",
+              "ToolTip": "C:\\Users\\aleesha\\source\\repos\\PROG_Part2\\PROG_Part2\\Recipe.cs",
+              "RelativeToolTip": "PROG_Part2\\Recipe.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:59:51.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aleesha\\source\\repos\\PROG_Part2\\PROG_Part2\\Program.cs",
+              "RelativeDocumentMoniker": "PROG_Part2\\Program.cs",
+              "ToolTip": "C:\\Users\\aleesha\\source\\repos\\PROG_Part2\\PROG_Part2\\Program.cs",
+              "RelativeToolTip": "PROG_Part2\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAADAAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:34:50.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
